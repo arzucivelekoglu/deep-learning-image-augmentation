@@ -10,4 +10,4 @@ Bu küçük miktarlardaki varyasyonları orijinal görüntüye uygulamak, hedef 
 
 ❗ Amaç, eğitim sırasında modelinizin aynı resmi asla iki kez görmemesidir. Bu, modelin daha iyi genelleştirilebilmesi için verilerin daha fazla yönüne maruz kalmasına yardımcı olur.
 
-Görüntü büyütme için birçok farklı yöntem mevcut. Bunların hepsini 'image_augmentation_techniques_.ipynb' dosyaında ayrıntılı anlatılmıştır. 
+Görüntü büyütme için birçok farklı yöntem mevcut. Bunların hepsini 'image_augmentation_techniques_.ipynb' dosyasında ayrıntılı anlatılmıştır. 
